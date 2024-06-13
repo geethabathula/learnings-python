@@ -28,3 +28,5 @@ print(n) #[1, 3, 5, 7, 8, 9]
 n.sort(reverse=True) #revese=True desc reverse=False asc
 print(n) #[9, 8, 7, 5, 3, 1]
 print(n.index(5)) #prints the index
+# print(n.clear())
+print(n)
